@@ -17,5 +17,3 @@ Before any transaction operations on the market page, all kinds of users need to
 The whole process of buying tokens is quite simple. Choosing the token that you prefer, click “BUY” to select the allowable range of purchase shares. Once the transaction is succeed, you can view the token and transaction information on the Asset page.
 
 ![](../.gitbook/assets/2.png)
-
-Is there a transaction fee? How does the price fluctuate？ Are there any upper and lower limits on the shares that can be purchased?
