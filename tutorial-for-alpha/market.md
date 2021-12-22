@@ -6,7 +6,7 @@ description: A token-trading marketplace
 
 #### What is Market for?
 
-Market is a place where all users can trade Tokens. Miner users can create their own Tokens on UncleMine and place them on the market for sale. Miners can also buy tokens created by other miners. Non-miner users can only trade Tokens in UncleMine Market. The tokens that were allowed for trading on the UncleMine platform are limited to the tokens created by miner users.\\
+Market is a place where all users can trade Tokens. Miner users can create their own Tokens on UncleMine and place them on the market for sale. Miners can also buy tokens created by other miners. Non-miner users can only trade Tokens in UncleMine Market. The tokens that were allowed for trading on the UncleMine platform are limited to the tokens created by miner users.
 
 #### How to buy a Token in the Market?
 
