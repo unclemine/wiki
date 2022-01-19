@@ -8,7 +8,7 @@ UM is the native token issued on Solana with a total of **1,000,000,000 UM**. It
 * _**30.2%**_ - Reserved to provide initial liquidity, incentivize all participants, early cooperation, bug bounty, and other activities;
 * _**15%**_ - UncleMine founding team (locked for 12 months, 3-year vesting)
 * _**12.3%**_ - Private Sale (locked for 3-6 months, 12-month vesting), for early supporters and computing power providers;
-* \_**2.5%** \_ - Public Sale (no lock-up)
+* **2.5%** - Public Sale
 
 **How to obtain UM Token**
 
