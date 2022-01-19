@@ -1,14 +1,14 @@
 # Tokenomics
 
-#### **UM Token -Incentive& Governance UncleMine** <a href="#_tf4282m8i6u" id="_tf4282m8i6u"></a>
+#### **UM Token -Incentive & Governance UncleMine** <a href="#_tf4282m8i6u" id="_tf4282m8i6u"></a>
 
 UM is the native token issued on Solana with a total of **1,000,000,000 UM**. It is the core of the UncleMine protocol economic incentive mechanism and an important medium for governance on the protocol chain. **The distribution** of UM token is as follows:
 
 * _**40%**_ - UncleMine Treasury (the UncleMine DAO community democratise the usage to support the long-term development of UM)
-* _**23.7%**_ - Reserved to provide initial liquidity, incentivize all participants, early cooperation, bug bounty, and other activities;
+* _**30.2%**_ - Reserved to provide initial liquidity, incentivize all participants, early cooperation, bug bounty, and other activities;
 * _**15%**_ - UncleMine founding team (locked for 12 months, 3-year vesting)
-* _**11.3%**_ - Private Sale (locked for 3-6 months, 12-month vesting), for early supporters and computing power providers;
-* _**10%** _ - Public Sale (no lock-up)
+* _**12.3%**_ - Private Sale (locked for 3-6 months, 12-month vesting), for early supporters and computing power providers;
+* \_**2.5%** \_ - Public Sale (no lock-up)
 
 **How to obtain UM Token**
 
@@ -17,6 +17,7 @@ In addition to participating in the Private/Public Sale or purchasing in the sec
 * Become an UMVL Node, provides computing power proof and chain services for the UncleMine network;
 * Provides liquidity for UM tokens, and becomes a liquidity provider in certain;
 * Participates in UM network testing, becomes a community member, and participates in early bootstrapping activities;
+* Project parties and users who participate in early IMOs will receive airdrops.
 * Joins UM as a miner and provides computing power;
 * Other token distribution and incentive methods adopted by DAO;
 

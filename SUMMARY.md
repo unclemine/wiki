@@ -2,10 +2,10 @@
 
 * [Background](README.md)
 * [Protocol Overview](overview.md)
-* [Why Solana?](why-solana.md)
 * [UMVL (Validation Layer) - The universal mining asset verification layer](umvl-validation-layer-zk-based-validation-network.md)
 * [UMAL (Application Layer) - IMO(Initial MiningFi Offering) platform based on Mining Assets](umal-application-layer-nfts-and-marketplace.md)
 * [UMIGL (Incentive & Governance Layer) - DAO & Treasury](umigl-incentive-and-governance-layer-dao-and-treasury.md)
+* [Why first on Solana?](why-solana.md)
 * [Stakeholders](stakeholders.md)
 * [Other potential Use Cases](potential-use-cases.md)
 * [Tokenomics](tokenomics.md)
